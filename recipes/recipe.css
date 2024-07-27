@@ -1,0 +1,22 @@
+
+.description{
+  font-family: Arial, Helvetica, sans-serif; font-size: auto;
+}
+#adobo{
+    background-color: burlywood; color: rgb(54, 34, 8);
+}
+#sinigang{
+    background-color: rgb(86, 109, 53); color: rgb(23, 44, 23);
+}
+#pochero{
+    background-color: rgb(211, 95, 41); color: rgb(230, 182, 95);
+}
+.Bolder{
+    font-weight: bolder; color: black;
+}
+.Description, .ingredients , .Directions{
+    color: black;
+}
+div{
+    background-color: pink;
+}
